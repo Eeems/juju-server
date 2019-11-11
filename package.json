@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "node-static": "0.7.x",
-    "ws": "1.1.5"
+    "ws": "7.2.0"
   },
   "devDependencies": {
     "tape": "2.x"
